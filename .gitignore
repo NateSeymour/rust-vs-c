@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+.idea
+ghidra-project
+build/*
+!build/Makefile
